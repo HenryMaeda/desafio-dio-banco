@@ -1,0 +1,2 @@
+Projeto feito utilizando os conceitos de POO ensinados no curso da DIO. Foi feito uma simulação de um banco, onde existem 2 tipos de conta, a corrente e a poupança.
+O objetivo era que fosse possível criar contas para os clientes e que essas contas pudessem realizar as ações de saque, transferência, depósito e a impressão do extrato. 
